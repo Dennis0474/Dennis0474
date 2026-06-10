@@ -16,3 +16,8 @@
 ## Projects
 - 🎬 [Movie Search App](https://github.com/Dennis0474/movie-search-app)
 - 💼 [Portfolio Website](https://my-portfolio-pi-black-49.vercel.app/)
+- [Expense Tracker](https://github.com/Dennis0474/expense-tracker)
+- [Github Profile Finder](https://github.com/Dennis0474/github-profile-finder)
+- [Weather App](https://github.com/Dennis0474/weather-app)
+- [Quiz Game](https://github.com/Dennis0474/quiz-game)
+- [A TodoList App](https://github.com/Dennis0474/to-do-list)
